@@ -16,6 +16,7 @@ public class AnyViewTestActivity extends AppCompatActivity
 
     LoadingAndRetryManager mLoadingAndRetryManager;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
